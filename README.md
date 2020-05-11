@@ -1,2 +1,1 @@
-# Under Construction :construction:
-## www.aplusk.me
+# AplusK.me
