@@ -1,0 +1,2 @@
+(this["webpackJsonpadilkhali.github.io"]=this["webpackJsonpadilkhali.github.io"]||[]).push([[0],[,,,function(e,t,a){e.exports=a(10)},,,,,function(e,t,a){},function(e,t,a){},function(e,t,a){"use strict";a.r(t);var n=a(0),i=a.n(n),l=a(2),r=a.n(l);a(8),a(9);var c=function(){return i.a.createElement("div",{className:"App"},i.a.createElement("header",{className:"App-header"},i.a.createElement("p",null,"A+K")))};r.a.render(i.a.createElement(i.a.StrictMode,null,i.a.createElement(c,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.db33bc86.chunk.js.map
